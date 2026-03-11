@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!👋;I'm+John+Doe;Full+Stack+Developer;Open+Source+Enthusiast!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!👋;I'm+Abhinash+Kumar+Yadav;Full+Stack+Developer;Open+Source+Enthusiast!" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 👋 About Me
 
-Hi! I'm **John Doe**, a passionate **Full-Stack Developer** from San Francisco. I love building beautiful, functional applications and contributing to open-source projects.
+Hi! I'm **Abhinash Kumar Yadav**, a passionate **Full-Stack Developer** from San Francisco. I love building beautiful, functional applications and contributing to open-source projects.
 
 - 🔭 Currently working on **AI-powered web applications**
 - 🌱 Learning **Machine Learning** and **Cloud Architecture**
