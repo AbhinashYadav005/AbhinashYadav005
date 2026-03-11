@@ -19,8 +19,8 @@ Hi! I'm **Abhinash Kumar Yadav**, a passionate **Full-Stack Developer** from San
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=johndoe&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johndoe&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinashyadav&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhinashyadav&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -63,13 +63,13 @@ Hi! I'm **Abhinash Kumar Yadav**, a passionate **Full-Stack Developer** from San
 ## 🤝 Connect With Me
 
 <div align="center">
-  <a href="https://twitter.com/johndoe">
+  <a href="https://twitter.com/abhinashyadav">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/johndoe">
+  <a href="https://linkedin.com/in/abhinashyadav">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://johndoe.com">
+  <a href="https://abhinashyadav.com">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=web&logoColor=white" />
   </a>
 </div>
@@ -77,5 +77,5 @@ Hi! I'm **Abhinash Kumar Yadav**, a passionate **Full-Stack Developer** from San
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=johndoe&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abhinashyadav&color=blue&style=flat-square" alt="Profile Views" />
 </div>
